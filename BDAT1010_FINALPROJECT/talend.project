@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_S6yz4VkGEe-Fru_XJZnytQ" label="BDAT1010_FinalProject" description="This is the final project for BDAT 1010 - Business Intelligence that requires the creation of an ETL job from multiple sources, including from MSSQL Server, and flat csv files. The data being extracted, loaded and transformed is from the Toronto Transit Commission, and deals with delay logs for Busses, Streetcars, and Subways in Toronto, from January 2024, to July 2024. Link to data source(s): https://open.toronto.ca/catalogue/?search=TTC%20Delay&amp;sort=score%20desc " language="java" technicalLabel="BDAT1010_FINALPROJECT" author="_S6yz4lkGEe-Fru_XJZnytQ" productVersion="Talend Cloud Data Management Platform-8.0.1.20240718_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/farah-sadoon/BDAT1010_FinalProject&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_S7iawFkGEe-Fru_XJZnytQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_S6yz4lkGEe-Fru_XJZnytQ" login="200574206@trial61020.us.talend.com" firstName="Farah" lastName="Sadoon" type="DQ"/>
+</xmi:XMI>

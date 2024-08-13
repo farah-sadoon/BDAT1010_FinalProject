@@ -1,0 +1,58 @@
+[ {
+  "baseItem" : {
+    "id" : "_GXJQoFkHEe-Fru_XJZnytQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "BDAT1010_FINALPROJECT:_owCvQFkOEe-kmt93OYavbg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_owCvQFkOEe-kmt93OYavbg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2W34sFkLEe-kmt93OYavbg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_c8yn0FkHEe-Fru_XJZnytQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_o0ojEFkIEe-Fru_XJZnytQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2W34sFkLEe-kmt93OYavbg - ttc-bus-delay-data-2024",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_c8yn0FkHEe-Fru_XJZnytQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_o0ojEFkIEe-Fru_XJZnytQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wU7AgFkPEe-kmt93OYavbg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5onSEFkSEe-kmt93OYavbg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5onSEFkSEe-kmt93OYavbg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
