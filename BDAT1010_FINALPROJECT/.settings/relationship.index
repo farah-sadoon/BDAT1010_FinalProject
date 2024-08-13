@@ -8,6 +8,25 @@
     "id" : "BDAT1010_FINALPROJECT:_owCvQFkOEe-kmt93OYavbg",
     "version" : "Latest",
     "type" : "job"
+  }, {
+    "id" : "BDAT1010_FINALPROJECT:_wU7AgFkPEe-kmt93OYavbg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_oegA8FmKEe-kmt93OYavbg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KcKxkFmREe-kmt93OYavbg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KcKxkFmREe-kmt93OYavbg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
@@ -51,7 +70,23 @@
     "version" : "Latest",
     "type" : "property"
   }, {
+    "id" : "_l08aMFmJEe-kmt93OYavbg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_o0ojEFkIEe-Fru_XJZnytQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_5onSEFkSEe-kmt93OYavbg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_l08aMFmJEe-kmt93OYavbg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_o0ojEFkIEe-Fru_XJZnytQ - metadata",
     "version" : "Latest",
     "type" : "schema"
   } ]
